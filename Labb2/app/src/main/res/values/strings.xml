@@ -1,0 +1,7 @@
+<!-- Variabler som behövs i våran activity_main.xml-->
+<resources>
+    <string name="app_name">hangman</string>
+    <string name="inputName">HÄR</string>
+    <string name="borjaOm">Börja om</string>
+    <string name="avsluta">Avsluta</string>
+</resources>
